@@ -1,0 +1,9 @@
+openai
+Flask
+flask-cors
+tiktoken
+tiktoken --upgrade
+openpyxl
+tiktoken==0.3.3
+openpyxl==3.0.9
+gunicorn
